@@ -15,5 +15,6 @@
 Скриншоты:
 
 <img width="501" height="596" alt="image" src="https://github.com/user-attachments/assets/af981a19-004d-470d-a37d-9914bb8bbbc1" />
+<img width="485" height="594" alt="image" src="https://github.com/user-attachments/assets/6353da89-bb6b-40f5-9ec7-bd0bc8ca8c04" />
 <img width="503" height="599" alt="image" src="https://github.com/user-attachments/assets/ba67ab38-dab1-4d4e-a3cf-861ef4c8a023" />
 
